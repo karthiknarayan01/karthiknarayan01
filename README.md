@@ -65,12 +65,3 @@ searchable library of Sanskrit prayers, fully on-device.
 **[personal-assistant](https://github.com/karthiknarayan01/personal-assistant)**
 A local multi-agent assistant for shopping deals and home remedies, running
 entirely offline.
-
----
-
-### 📊 Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/karthiknarayan01?style=social" height="20"/>
-  <img src="https://img.shields.io/github/stars/karthiknarayan01?style=social&label=Stars" height="20"/>
-</p>
