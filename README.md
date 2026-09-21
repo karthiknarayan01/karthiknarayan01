@@ -47,8 +47,8 @@ real users in mind, not just side projects that stop at a working demo.
 ### Selected projects
 
 **[immigration-assistant](https://github.com/karthiknarayan01/immigration-assistant)**
-A US immigration Q&A agent that separates what the law says from what
-actually happens in practice. Runs entirely on local open-source models.
+A real-time voice agent for US immigration questions — ask out loud, get an
+answer grounded in current law and practice, not just what the statute says.
 
 **[Plainly](https://github.com/karthiknarayan01/plainly-backend)**
 Turns dense documents — earnings statements, financial filings, technical
@@ -68,32 +68,9 @@ entirely offline.
 
 ---
 
-### Notes on how I work
-
-- If a project only reaches "works on my machine," it's not done.
-- Local-first by default for anything agent-shaped.
-- Fidelity beats fluency — a confident answer that's quietly wrong is worse
-  than an honest one that isn't polished.
-- I'd rather understand a primitive once than trust it blindly forever after.
-
-*(First pass, based on the shape of my own repos — edit freely.)*
-
----
-
 ### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karthiknarayan01&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknarayan01&layout=compact&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/karthiknarayan01?style=social" height="20"/>
+  <img src="https://img.shields.io/github/stars/karthiknarayan01?style=social&label=Stars" height="20"/>
 </p>
-
----
-
-### Elsewhere
-
-Reachable through GitHub — issues and discussions on any of the repositories
-above, or the profile inbox.
-
----
-
-<sub>Opinions here are my own.</sub>
