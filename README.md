@@ -50,7 +50,8 @@ real users in mind, not just side projects that stop at a working demo.
 A real-time voice agent for US immigration questions — ask out loud, get an
 answer grounded in current law and practice, not just what the statute says.
 
-**[Plainly](https://github.com/karthiknarayan01/plainly-backend)**
+**Plainly** ([backend](https://github.com/karthiknarayan01/plainly-backend) /
+[web](https://github.com/karthiknarayan01/plainly-web))
 Turns dense documents — earnings statements, financial filings, technical
 books — into plain language without losing a fact, figure, or caveat.
 
