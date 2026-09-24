@@ -59,9 +59,10 @@ books — into plain language without losing a fact, figure, or caveat.
 Paste a SQL query, watch exactly how Postgres executes it — parsing,
 planning, buffer pool, WAL, MVCC — as a step-by-step visual.
 
-**[sadhana](https://github.com/karthiknarayan01/sadhana)**
-A daily-practice iOS app — meditation timer, guided breathing, and a
-searchable library of Sanskrit prayers, fully on-device.
+**Sadhana** ([app](https://github.com/karthiknarayan01/sadhana-app) /
+[backend](https://github.com/karthiknarayan01/sadhana-backend))
+A daily-practice app — meditation timer, guided breathing, and search over a
+library of Sanskrit prayers.
 
 **[personal-assistant](https://github.com/karthiknarayan01/personal-assistant)**
 A local multi-agent assistant for shopping deals and home remedies, running
