@@ -24,8 +24,7 @@ storage, and how systems stay correct when parts of them fail.
 ### What I work on
 
 **AI agents, built and measured.** I write the agent loop myself, without a framework, and
-judge it against an eval set. An agent that hasn't been run against real cases is a demo that
-happened to work once.
+judge it against an eval set.
 
 **Inference.** Why one model call takes a second and another takes thirty. Prefill, KV caches,
 batching, and getting open models to run well on everyday hardware.
@@ -33,9 +32,6 @@ batching, and getting open models to run well on everyday hardware.
 **Distributed systems and storage.** Replication, gossip, CRDTs, append-only logs,
 crash recovery, and database internals: how a planner picks a plan, and how a system keeps its
 data correct when a node dies halfway through a write.
-
-**Learning the foundations.** Neural networks from scratch, down to backpropagation, so the
-models I build on aren't black boxes.
 
 ---
 
